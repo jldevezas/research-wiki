@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  dokuwiki:
+    build: ./
+    #image: 'docker.io/bitnami/dokuwiki:20200729-debian-10'
+    ports:
+      - '8080:8080'
+      - '8443:8443'
+    volumes:
+      - 'dokuwiki_data:/bitnami/dokuwiki'
+    #   - './skeleton:/bitnami/dokuwiki/data/pages'
+    environment:
+      - DOKUWIKI_WIKI_NAME=PhD Wiki
+      - PHP_MEMORY_LIMIT=512m
+
+volumes:
+  dokuwiki_data:
+    driver: local
