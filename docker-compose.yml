@@ -1,19 +1,29 @@
 version: '3'
 
 services:
-  dokuwiki:
-    build: ./
-    #image: 'docker.io/bitnami/dokuwiki:20200729-debian-10'
-    ports:
-      - '8080:8080'
-      - '8443:8443'
+  php-fpm:
+    image: php:7.4-fpm-buster
+    container_name: php-fpm
     volumes:
-      - 'dokuwiki_data:/bitnami/dokuwiki'
-    #   - './skeleton:/bitnami/dokuwiki/data/pages'
-    environment:
-      - DOKUWIKI_WIKI_NAME=PhD Wiki
-      - PHP_MEMORY_LIMIT=512m
+      - ./data:/var/www/html
+      - ./config/www.conf:/usr/local/etc/php-fpm.d/www.conf
+    ports:
+      - 9000:9000
 
-volumes:
-  dokuwiki_data:
-    driver: local
+  nginx:
+    image: nginx
+    container_name: nginx
+    depends_on:
+      - php-fpm
+    ports:
+      - 8888:8888
+    volumes:
+      - ./config/nginx.conf:/etc/nginx/conf.d/default.conf
+
+  research-wiki:
+    build: ./
+    container_name: research-wiki
+    depends_on:
+      - nginx
+    volumes:
+      - ./data:/var/www/html
