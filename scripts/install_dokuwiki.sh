@@ -57,5 +57,5 @@ do
     fi
 done
 
-chown -R www-data:www-data /var/www/html
+chown -R www-data:www-data /var/www/html/*
 chmod -R 0700 /var/www/html/{data,conf,bin,inc,vendor}
