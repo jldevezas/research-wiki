@@ -1,0 +1,6 @@
+====== Collections ======
+
+===== CATEGORY 1 =====
+
+  * [[.collections:Wikipedia]]
+    * [[.collections:Wikipedia Subset]]

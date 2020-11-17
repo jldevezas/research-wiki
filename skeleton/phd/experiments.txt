@@ -1,0 +1,9 @@
+====== Experiments ======
+
+  * [[.experiments:The Wiki Way]]
+
+===== Experimental Workflow =====
+
+FIGURE OF YOUR METHODOLOGY
+
+DESCRIPTION OF YOUR METHODOLOGY

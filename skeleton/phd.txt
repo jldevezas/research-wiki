@@ -1,0 +1,8 @@
+====== Thesis ======
+
+^ Title      | TITLE                                                                                                                                                                                                                                                                                                                                           |
+^ Statement  | THESIS STATEMENT  |
+
+===== YOUR OWN SECTIONS =====
+
+FREE OVERVIEW CONTENT

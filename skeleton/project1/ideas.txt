@@ -1,0 +1,14 @@
+====== Ideas ======
+
+===== IDEA 1 =====
+
+**Status:** [[project1:issues:details1|Implemented]]
+
+DESCRIPTION
+
+===== IDEA 2 =====
+
+**Status:** Not implemented
+
+DESCRIPTION
+

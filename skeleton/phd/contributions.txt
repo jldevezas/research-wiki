@@ -1,0 +1,86 @@
+~~NOTOC~~
+
+====== Contributions ======
+
+Besides papers and presentations for published work, below I also list some of the possible future conferences and journals to publish, along with dates.
+
+<WRAP group>
+<WRAP column 45%>
+^  Summary                                                             ||
+| **Notebook**             |                                          2 |
+| **Short**                |                                          0 |
+| **Full**                 |                                          4 |
+| **Poster**               |  ((Counted twice, also as a full paper.))1 |
+| **Demo**                 |                                          1 |
+| **Doctoral consortium**  |                                          1 |
+| **Journal**              |                                          2 |
+^ **Published**            ^                                         10 ^
+</WRAP>
+
+<WRAP column 45%>
+^ Legend ^
+| <wrap>Working on it / Published somewhere else</wrap> |
+| <wrap notice>Ongoing submission process</wrap> |
+| <wrap warning>Rejected (with a new destiny)</wrap> |
+| <wrap danger>Rejected (no plans)</wrap> |
+| <wrap safety>Accepted</wrap> |
+</WRAP>
+</WRAP>
+
+===== Summary =====
+
+By order of importance:
+
+  - YOUR PAPER TITLE LINKED TO THE PDF
+
+Submitted:
+
+  * YOUR PAPER TITLE LINKED TO THE PDF
+
+===== Journals =====
+
+<sortable>
+|< 100% 10em - 7em >|
+^ Collection                            ^ Publication                         ^ Status                         ^
+| [[https://example.com|JOURNAL NAME]]  | YOUR PAPER TITLE LINKED TO THE PDF  | <wrap notice>Submitted</wrap>  |
+</sortable>
+
+===== Conferences =====
+
+<sortable>
+|< 100% 10em - 7em >|
+^ Collection                            ^ Publication                         ^ Status                         ^
+| [[https://example.com|CONFERENCE NAME]]  | YOUR PAPER TITLE LINKED TO THE PDF  | <wrap notice>Submitted</wrap>  |
+</sortable>
+
+===== Other =====
+
+<sortable>
+|< 100% 10em - 7em >|
+^ Event                                     ^ Description                        ^ Type                              ^
+| [[https://example.com|SOME OTHER EVENT]]  | TITLES AND LINKS TO YOUR MATERIAL  | <wrap safety>Presentation</wrap>  |
+</sortable>
+
+===== Where to Publish =====
+
+Conferences and journals considered in the past are listed below by order of relevance.
+
+JUST DUMP LINKS HERE\\
+AND HERE
+===== Title Ideas =====
+
+  * «BETTER TO ANNOTATE THOSE, RIGHT?»
+
+===== Biography =====
+
+<WRAP round box>
+{{:phd:contributions:jld-photo-inesc_tec-2017.jpg?direct&200 |}}
+
+SOMETIMES PEOPLE ASK YOU FOR THIS. BETTER TO WRITE IT ONCE ONLY.
+</WRAP>
+
+===== Acknowledgements =====
+
+<WRAP box round>
+WRITE YOUR ACKNOWLEDGEMENTS ONCE HERE
+</WRAP>

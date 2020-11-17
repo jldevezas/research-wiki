@@ -1,0 +1,3 @@
+====== Bibliography ======
+
+<nspages phd:bibliography:publisher -title -textPages="Per publisher">

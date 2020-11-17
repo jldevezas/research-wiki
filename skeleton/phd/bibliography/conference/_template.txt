@@ -1,0 +1,3 @@
+====== Conference Name ======
+
+{{backlinks>.#!phd:bibliography:conference}}

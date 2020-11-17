@@ -1,0 +1,23 @@
+====== Milestones - rev0 ======
+
+<WRAP info round>
+In this revision, we present the first iteration of the milestones (we all know things change).
+</WRAP>
+
+===== M1: MILESTONE NAME =====
+
+==== A: ACTIVITY NAME ====
+
+**[[.milestones:m1at1|T1. TASK DESCRIPTION (DONE)]]**
+
+[[.milestones:m1at2|T2. TASK DESCRIPTION (NOT DONE)]]
+
+====== Gantt ======
+
+GANT IMAGE
+
+====== Work Plan ======
+
+===== Revisions ======
+
+MULTI-SECTION DETAILS ON WHAT CHANGED

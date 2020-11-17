@@ -1,0 +1,8 @@
+====== Lists ======
+
+<nspages phd:bibliography:list
+  -textPages=""
+  -title
+  -sortByDate
+  -simpleList
+  -reverse>

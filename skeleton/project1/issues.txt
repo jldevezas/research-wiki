@@ -1,0 +1,31 @@
+====== Issues ======
+
+[[http://stackoverflow.com/questions/306914/bug-tracker-priorities-and-policies|Bug tracker priorities and policies]]
+
+===== Bugs =====
+
+**Priority:** 1. Blocker, 2. Critical, 3. Major, 4. Minor, 5. Trivial
+
+<sortable>
+|< 100% 7em 10em 4em - >|
+^ Priority  ^ Date                                                   ^ Type        ^ Description                                                 ^
+| 4         | USE INSERT A TIMESTAMP (YOU CAN CONFIGURE THE FORMAT)  | YOUR LABEL  | SHORT DESCRIPTION (CAN LINK TO PAGE WITH MORE INFORMATION)  |
+</sortable>
+
+++++ Done |
+<sortable>
+^ Priority ^ Date ^ Type ^ Description ^
+| 4         | USE INSERT A TIMESTAMP (YOU CAN CONFIGURE THE FORMAT)  | YOUR LABEL  | SHORT DESCRIPTION (CAN LINK TO PAGE WITH MORE INFORMATION)  |
+| 4         | USE INSERT A TIMESTAMP (YOU CAN CONFIGURE THE FORMAT)  | YOUR LABEL  | SHORT DESCRIPTION (CAN LINK TO PAGE WITH MORE INFORMATION)  |
+</sortable>
+++++
+
+===== Features =====
+
+**Priority:** 2. Design Error, 3. Important, 4. Normal, 5. Low-Impact, 6. Optional
+
+<sortable>
+|< 100% 7em 10em 4em - >|
+^ Priority  ^ Date              ^ Type     ^ Description                                                                                              ^
+| 4         | USE INSERT A TIMESTAMP (YOU CAN CONFIGURE THE FORMAT)  | YOUR LABEL  | SHORT DESCRIPTION (CAN LINK TO PAGE WITH MORE INFORMATION)  |
+</sortable>

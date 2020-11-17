@@ -1,0 +1,11 @@
+====== Teaching ======
+
+===== Courses =====
+
+==== Course 1 ====
+
+  * [[teaching:course1|COURSE ACRONYM: COURSE NAME]]
+
+===== Supervisions =====
+
+  * [[teaching:THESIS TITLE 1]]

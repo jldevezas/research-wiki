@@ -1,0 +1,55 @@
+====== Model Name ======
+
+^ ID | Experiment 1 |
+^ Start Date | 2017-11-28 11:19 |
+^ End Date | Ongoing |
+^ Why do it? | |
+^ Main strengths | |
+^ Main weaknesses | |
+^ Test Collection | [[phd:collections:Wikipedia]] |
+
+^ To Do ^
+| <todo></todo> |
+
+[{{:phd:experiments:model-name:diagram.png|Diagram here.}}]
+
+<WRAP clear/>
+
+Overall description of the model.
+
+===== Challenges =====
+
+|< 100% 60%   %40% >|
+^  Description  ^  Solution  ^
+| It won't scale, because of... | Possible solution: ... |
+
+===== Dependencies =====
+
+|< 100% 60% 40% >|
+^  Description  ^  Status  ^
+| Requires implementation of X. | Not started. |
+
+===== Versions =====
+
+|< 100% 12em - >|
+^ Version ^ Description ^
+^  Ranking Model  ^^
+| Function X | Descripion of the idea behind it or how it works. |
+^  Representation Model  ^^
+| Type X Edge | Description of how to create the edge and why. |
+
+===== Traces =====
+
+|< 100% - - - >|
+^ Version ^ Query ^ Army ANT Version ^
+| Function X | [[.experiment-page:traces:function-x-query|[ query ]]] | 0.3 |
+
+===== Evaluation =====
+
+^  Version  ^ GMAP ^ MAP  ^  NDCG@10  ^ P@10  ^ Index Time  ^^  Search Time  ^^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^  Avg./Doc  ^  Total  ^  Avg./Query  ^  Total  ^
+|  |  |  |  |  |  |  |  |  |
+
+===== Research Log =====
+
+Log of operations (create multiple pages under namespace .experiment-page as needed).

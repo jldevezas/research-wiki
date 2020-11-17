@@ -1,0 +1,3 @@
+====== Bibliography ======
+
+<nspages phd:bibliography:journal -title -textPages="Per journal">

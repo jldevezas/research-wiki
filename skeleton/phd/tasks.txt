@@ -1,0 +1,23 @@
+~~NOCACHE~~
+
+====== Tasks ======
+
+===== Contributions =====
+
+<todo>LOCAL TASK</todo>
+
+===== State of the Art =====
+
+<todo #jld:2017-07-28>LOCAL DONE TASK</todo>\\
+
+==== Resources ====
+
+AGGREGATED TASKS FROM RESOURCES
+
+~~TODOLIST ns:phd:resources completed:no header:firstheader~~
+
+==== To Review ====
+
+AGGREGATED TASKS FROM LITERATURE REVIEWS
+
+~~TODOLIST ns:phd:bibliography completed:no header:firstheader~~

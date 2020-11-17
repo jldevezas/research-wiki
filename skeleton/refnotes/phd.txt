@@ -1,0 +1,27 @@
+====== References ======
+
+DUMP AND ORGANIZE BIBTEX FILES INTO SECTIONS, WHICH YOU CAN CITE USING REFNOTES
+
+===== CATEGORY 1 =====
+
+<code bibtex my-file.bib>
+@Comment{refnotes,
+  namespace = "harvard"
+}
+
+@article{DBLP:journals/cejcs/DevezasN19,
+  author    = {Jos{\'{e}} Lu{\'{\i}}s Devezas and
+               S{\'{e}}rgio Nunes},
+  title     = {Hypergraph-of-entity},
+  journal   = {Open Comput. Sci.},
+  volume    = {9},
+  number    = {1},
+  pages     = {103--127},
+  year      = {2019},
+  url       = {https://doi.org/10.1515/comp-2019-0006},
+  doi       = {10.1515/comp-2019-0006},
+  timestamp = {Wed, 04 Mar 2020 14:22:24 +0100},
+  biburl    = {https://dblp.org/rec/journals/cejcs/DevezasN19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+</code>

@@ -1,0 +1,3 @@
+====== Bibliography and Resources ======
+
+<nspages phd:bibliography:year -simpleList -title -textPages="Per year" -reverse>

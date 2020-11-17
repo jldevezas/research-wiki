@@ -1,0 +1,47 @@
+====== Bibliography ======
+
+All the bibliography in the wiki is relevant to the curricular units or the thesis and each publication is expected to be read and analyzed in some depth. All other references will be managed using Mendeley (or a similar strategy), with individual BibTeX files maintained through JabRef for particular applications (e.g., a curricular unit, an assignment, the thesis proposal).
+
+===== Latest =====
+
+<nspages phd:bibliography
+  -exclude:[list]
+  -exclude:phd:bibliography:author:
+  -exclude:phd:bibliography:journal:
+  -exclude:phd:bibliography:conference:
+  -exclude:phd:bibliography:institution:
+  -textPages=""
+  -title
+  -sortByDate
+  -simpleList
+  -reverse
+  -nbItemsMax=5>
+
+===== Selected Authors =====
+
+  * [[.bibliography:author:MY FAVORITE AUTHOR]]
+
+===== Lists =====
+
+  * [[.bibliography:list:A LIST WITH REFERENCES THAT HELP ANSWER A QUESTION OR DO A STUDY]]
+
+===== Methodology =====
+
+LITERATURE REVIEW METHODOLOGY DESCRIPTION
+
+===== General =====
+ 
+  * [[phd:bibliography:PAPER TITLE HERE]]
+
+===== TOPIC 1 =====
+
+  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:PAPER TITLE HERE]]
+
+==== TOPIC 2 ====
+
+  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:PAPER TITLE HERE]]

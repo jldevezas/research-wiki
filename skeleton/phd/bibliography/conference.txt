@@ -1,0 +1,3 @@
+====== Bibliography ======
+
+<nspages phd:bibliography:conference -title -textPages="Per conference">

@@ -1,0 +1,12 @@
+====== InfoPages ======
+
+===== Science =====
+
+  * [[infopages:Concept 1]]
+    * [[infopages:Subconcept 1]]
+  * [[infopages:Concept 2]]
+
+===== Engineering =====
+
+  * [[infopages:Manual 1]]
+

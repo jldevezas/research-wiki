@@ -1,0 +1,10 @@
+====== Resource Title ======
+
+<WRAP 100%>
+^ Authors |  |
+^ Year | [[phd:bibliography:year:2017]] |
+^ URL |  |
+
+^ To Do |
+| <todo>Add goals for this publication.</todo> |
+</WRAP>

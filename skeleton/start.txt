@@ -1,0 +1,19 @@
+~~NOTOC~~
+
+====== Home ======
+
+  * [Master's / PhD] student at [[http://example.com/|YOUR PROGRAM]] 20XX/20XY.
+  * Working on THESIS TOPIC at [[http://example.com|YOUR LAB]].
+  * RELEVANT ACTIVITY 1
+  * RELEVANT ACTIVITY 2
+
+===== Biography =====
+
+<WRAP round box 660px>
+YOUR NAME is a Nth year [Master's/PhD] student at YOUR PROGRAM. [His/Her] ongoing thesis, entitled "YOUR THESIS TITLE", was born from REASON. [He/She] has done work in several domains, including DOMAIN1, DOMAIN2, AND DOMAIN3. [He/She] is currently exploring CURRENT ACTIVITIES, with the goal of LET US KNOW WHY.
+</WRAP>
+
+===== Stuff I Liked =====
+
+  * [[https://www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/|How Randomness Can Make Math Easier]]
+  * SOMETHING PERSONAL OR INTERESTING

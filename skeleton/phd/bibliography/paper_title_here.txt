@@ -1,0 +1,10 @@
+====== Paper Title ======
+
+<WRAP 100%>
+^ Authors | [[.author:José Devezas]] |
+^ Conference | [[.conference:Complex Networks 2019]] |
+^ Year | [[.year:2018]] |
+
+^ To Do |
+| <todo>Add goals for this publication.</todo> |
+</WRAP>
