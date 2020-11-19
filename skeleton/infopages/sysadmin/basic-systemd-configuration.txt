@@ -1,0 +1,19 @@
+====== Basic Systemd Configuration ======
+
+<WRAP prewrap>
+<code ini army_ant@.service>
+[Unit]
+Description=Army ANT Server %i
+
+[Service]
+User=jld
+Group=jld
+WorkingDirectory=/home/jld/army-ant
+ExecStart=/home/jldevezas/.pyenv/shims/python /home/jld/army-ant/army-ant.py server --path=/tmp/army_ant_%i.sock
+
+[Install]
+WantedBy=multi-user.target
+</code>
+</WRAP>
+
+Deploy to ''/etc/systemd/system'', install with ''sudo systemctl daemon-reload'' and start with ''sudo systemctl start army_ant@{1..4}''.

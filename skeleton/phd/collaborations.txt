@@ -1,5 +1,6 @@
 ====== Collaborations ======
 
 |< 100% 10em >|
-^ Person ^ Work ^
-| NAME | LINK AND/OR DESCRIPTION |
+^ Person    ^ Work                                                                       ^
+| John Doe  | Hackathon for social good at [[http://example.com|Hack the Planet 2020]].  |
+| Jane Doe  | Workshop at [[http://ecir2021.eu|ECIR 2021]]                               |

@@ -1,9 +1,9 @@
 ====== Ideas ======
 
-===== IDEA TITLE =====
+===== Cat-driven search engine =====
 
-DESCRIPTION
+Let your cats provide brain wave test data and produce information needs based on your cat's actions. Develop a search engine for cats.
 
 ===== Other =====
 
-  - ITEMIZED, SHORTER IDEAS
+  * Experiment the previous ideas with mice.

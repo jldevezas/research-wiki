@@ -1,0 +1,11 @@
+====== Entity-Oriented Search ======
+
+<WRAP 100%>
+^ Authors | [[.author:Krisztian Balog]] |
+^ Publisher | [[.publisher:Springer]] |
+^ Year | [[.year:2018]] |
+
+^ To Do |
+| <todo>Learn about nomenclature.</todo> |
+| <todo>Identify tasks.</todo> |
+</WRAP>

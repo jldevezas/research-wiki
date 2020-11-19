@@ -1,0 +1,3 @@
+====== ACM SIGIR Conference on Research and Development in Information Retrieval ======
+
+{{backlinks>.#!phd:bibliography:conference}}

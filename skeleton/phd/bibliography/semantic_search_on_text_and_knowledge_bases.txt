@@ -1,0 +1,11 @@
+====== Semantic search on text and knowledge bases ======
+
+<WRAP 100%>
+^ Authors | [[.author:H. Bast]], [[.author:B. Buchhold]], [[.author:E. Haussmann]] |
+^ Journal | [[.journal:Foundations and Trends in Information Retrieval]] |
+^ Year | [[.year:2018]] |
+
+^ To Do |
+| <todo>Learn about combined data.</todo> |
+| <todo>Learn about tasks in semantic search.</todo> |
+</WRAP>

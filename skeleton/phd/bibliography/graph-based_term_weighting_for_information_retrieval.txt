@@ -1,0 +1,10 @@
+====== Graph-based term weighting for information retrieval ======
+
+<WRAP 100%>
+^ Authors | [[.author:R. Blanco]], [[.author:C. Lioma]] |
+^ Conference | [[.conference:ACM SIGIR Conference on Research and Development in Information Retrieval]] |
+^ Year | [[.year:2012]] |
+
+^ To Do |
+| <todo>What is the state of the art in graph-based retrieval?</todo> |
+</WRAP>

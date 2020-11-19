@@ -1,0 +1,9 @@
+====== WPA Supplicant ======
+
+===== How to Generate a Hashed Password =====
+
+<WRAP prewrap>
+<code bash>
+echo -n "password here" | iconv -t utf16le | openssl md4 | awk '{ print "password=hash:" $2 }'
+</code>
+</WRAP>

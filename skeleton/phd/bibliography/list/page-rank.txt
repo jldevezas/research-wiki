@@ -1,0 +1,30 @@
+~~NOTOC~~
+
+====== What PageRank variations and computation methods are there? ======
+
+|< 100% 25em >|
+^ Publication                                                                                                                    ^ About                                                                                                           ^
+| [[..the-pagerank-citation-ranking-bringing-order-to-the-web|The PageRank Citation Ranking - Bringing Order to the Web]]        | - PageRank\\ - Personalized PageRank\\ - Dynamically computes $d$\\ - Written in 1998\\ - Deposited in 1999     |
+| [[..the-anatomy-of-a-large-scale-hypertextual-web-search-engine|The Anatomy of a Large-Scale Hypertextual Web Search Engine]]  | - Google Search Engine\\ - Well-known PageRank formula\\ - Missing $\frac{1}{N}$ multiplication with $(1 - d)$  |
+| [[..dirichlet-pagerank|Dirichlet PageRank]]                                                                                    | - Dirichlet PageRank\\ - Dirichlet smoothing\\ - Instead of Jelinek-Mercer smoothing                            |
+| [[..topic-sensitive-pagerank|Topic-Sensitive PageRank]]                                                                        | - Topic-Sensitive PageRank\\ - Multiple PageRank vectors\\ - For representative topics                          |
+| [[..what-makes-a-link-successful-on-wikipedia|What Makes a Link Successful on Wikipedia?]]                                     | - Weighted PageRank\\ - Reasonable surfer model\\ - Transition matrix per feature                               |
+| [[..multilinear-pagerank|Multilinear PageRank]]                                                                                | - Multilinear PageRank\\ - Spacey random surfer model\\ - Higher-order Markov chains                            |
+
+===== Entities-Oriented =====
+
+|< 100% 25em >|
+^ Publication                                                                                                                                                                                                 ^ About                                                                                                                                                                                                                                                         ^
+| [[phd:bibliography:reconrank-a-scalable-ranking-method-for-semantic-web-data-with-context|ReConRank: A Scalable Ranking Method for Semantic Web Data with Context]]                                         | - ResourceRank\\ - ContextRank\\ - ReConRank\\ - Derived from RDF.\\ - Resource graph induced by subjects.\\ - Context graph induced by contexts/graphs.\\ - Resource+context graph induced based on links between all combinations of resource and context.  |
+| [[phd:bibliography:objectrank-authority-based-keyword-search-in-databases|ObjectRank: Authority-Based Keyword Search in Databases]]                                                                         | - ObjectRank                                                                                                                                                                                                                                                  |
+| [[phd:bibliography:object-level-ranking-bringing-order-to-web-objects|Object-Level Ranking: Bringing Order to Web Objects]]                                                                                 | - PopRank                                                                                                                                                                                                                                                     |
+| [[phd:bibliography:Dynamic personalized pagerank in entity-relation graphs]]                                                                                                                                | - HubRank                                                                                                                                                                                                                                                     |
+| [[phd:bibliography:hierarchical-link-analysis-for-ranking-web-data|Hierarchical Link Analysis for Ranking Web Data]]                                                                                        | - DatasetRank                                                                                                                                                                                                                                                 |
+| [[phd:bibliography:tuning-personalized-pagerank-for-semantics-aware-recommendations-based-on-linked-open-data|Tuning Personalized PageRank for Semantics-Aware Recommendations Based on Linked Open Data]]  | - Semantics-Aware Personalized PageRank                                                                                                                                                                                                                       |
+| [[phd:bibliography:HopRank - How Semantic Structure Influences Teleportation in PageRank - A Case Study on BioPortal]]                                                                                      | - HopRank\\ - Considers transition matrices for hops of different sizes k.\\ - Transition matrices modeled based on transitive links.\\ - ``HopPortation'' probabilities modeled based on clickstream transitions for BioPortal.                              |
+
+===== Computation Approaches =====
+
+|< 100% 25em >|
+^ Publication                                                                                          ^ About  ^
+| [[phd:bibliography:Monte Carlo methods in PageRank computation - When one iteration is sufficient]]  |        |

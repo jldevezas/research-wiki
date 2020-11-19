@@ -1,15 +1,13 @@
 ====== Wikipedia ======
 
 ^  Global  ^^
-^ Source |  |
-^ Paper |  |
-^ Date | November 28, 2017 |
-^ Size |  GB |
+^ Source | https://dumps.wikimedia.org/enwiki/20201101/ |
+^ Paper | [[https://ojs.aaai.org//index.php/ICWSM/article/view/3257|WikiLinkGraphs: A Complete, Longitudinal and Multi-Language Dataset of the Wikipedia Link Networks]] |
+^ Date | November 1, 2020 |
+^ Size | 16.7 GB |
 ^  Statistics  ^^
-^ Documents |  |
-^ Entities |  |
-^ Topics |  |
-^ Assessments |  |
+^ Articles | 6,192,633 |
 
 ===== Description =====
 
+<blockquote>Wikipedia is a multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer editors using a wiki-based editing system. It is one of the 15 most popular websites as ranked by Alexa, as of August 2020.</blockquote>

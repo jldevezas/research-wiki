@@ -2,11 +2,11 @@
 
 ===== Science =====
 
-  * [[infopages:Concept 1]]
-    * [[infopages:Subconcept 1]]
-  * [[infopages:Concept 2]]
+  * [[infopages:Information Retrieval]]
+    * [[infopages:TF-IDF]]
+  * [[infopages:Network Science]]
 
 ===== Engineering =====
 
-  * [[infopages:Manual 1]]
+  * [[infopages:Sysadmin]]
 

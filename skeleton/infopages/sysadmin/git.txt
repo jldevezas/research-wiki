@@ -1,0 +1,72 @@
+====== Useful Git Workflows ======
+
+===== Finding Commits by Message or Content =====
+
+**Source:** [[http://stackoverflow.com/questions/1337320/how-to-grep-git-commit-diffs-or-contents-for-a-certain-word|How to grep Git commit diffs or contents for a certain word?]]
+
+In order to find a log with a certain word in the commit message:
+
+<code bash>
+git log --grep=word
+</code>
+
+In order to find the commit where a given string was introduced in the code:
+
+<code bash>
+git log -Sword
+</code>
+
+Same as the previous, but uses a regex instead of substring matching:
+
+<code bash>
+git log -Gword
+</code>
+
+===== Turn Subdirectory Into a Standalone Repository =====
+
+**Source:** [[https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/|Splitting a subfolder out into a new repository]]
+
+The main steps are the following:
+
+<code bash>
+# Only keep the subdirectory and its history
+git filter-branch --prune-empty --subdirectory-filter SUBDIRECTORY
+</code>
+
+<code bash>
+# Change the remote repository URL
+git remote set-url origin <NEW-REPOSITORY-URL>
+</code>
+
+<code bash>
+# Push to the new repository
+git push -u origin master
+</code>
+
+===== Merge branch, selectively excluding files =====
+
+**Source:** [[https://github.com/RWTH-EBC/AixLib/wiki/How-to:-Exclude-files-or-folder-from-merge|How to: Exclude files or folder from merge]]
+
+Let's say you want to merge some files from branch ''testing'' to branch ''master'':
+
+<code bash>
+git checkout master
+</code>
+
+<code bash>
+# Merge testing into master, but do not commit changes
+# and don't try to fast-forward without merging.
+git merge --no-commit --no-ff testing
+</code>
+
+Let's say you want to keep ''docker-compose.yml'':
+
+<code bash>
+# Restore the file(s) you do not want to change
+git checkout docker-compose.yml
+</code>
+
+<code bash>
+# Commit merge
+git commit -a
+</code>

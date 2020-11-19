@@ -1,0 +1,19 @@
+====== A statistical interpretation of term specificity and its application in retrieval ======
+
+<WRAP 100%>
+^ Authors | [[.author:K. S. Jones]] |
+^ Journal | [[.journal:Journal of Documentation]] |
+^ Year | [[.year:1972]] |
+
+^ To Do |
+| <todo>Learn about IDF.</todo> |
+| <todo>Find connections with Luhn's work.</todo> |
+</WRAP>
+
+<WRAP round box>
+SUMMARY PARAGRAPH. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor. Lectus mauris ultrices eros in cursus. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Hac habitasse platea dictumst vestibulum. Nulla at volutpat diam ut venenatis tellus in. Nulla facilisi etiam dignissim diam. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique. Ornare arcu dui vivamus arcu. Orci ac auctor augue mauris augue neque gravida in fermentum. Iaculis urna id volutpat lacus. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Ac tortor dignissim convallis aenean. Aenean et tortor at risus viverra adipiscing. Lectus nulla at volutpat diam ut venenatis tellus in metus. Risus nullam eget felis eget nunc lobortis mattis.
+</WRAP>
+
+===== Notes =====
+
+[[.author:H. P. Luhn|Hans Peter Luhn's]] work combined with Karen Spärck Jones' produced a fundamental concept of information retrieval: [[infopages:TF-IDF]].

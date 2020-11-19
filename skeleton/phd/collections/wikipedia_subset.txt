@@ -1,15 +1,12 @@
 ====== Wikipedia Subset ======
 
 ^  Global  ^^
-^ Source |  |
-^ Paper |  |
-^ Date | November 28, 2017 |
-^ Size |  GB |
+^ Source | [[phd:collections:Wikipedia]] |
+^ Date | November 1, 2020 |
+^ Size | 1 GB |
 ^  Statistics  ^^
-^ Documents |  |
-^ Entities |  |
-^ Topics |  |
-^ Assessments |  |
+^ Articles | 10,000 |
 
 ===== Description =====
 
+Sample of the English Wikipedia with 10,000 articles.

@@ -19,29 +19,30 @@ All the bibliography in the wiki is relevant to the curricular units or the thes
 
 ===== Selected Authors =====
 
-  * [[.bibliography:author:MY FAVORITE AUTHOR]]
+  * [[.bibliography:author:Krisztian Balog]]
 
 ===== Lists =====
 
-  * [[.bibliography:list:A LIST WITH REFERENCES THAT HELP ANSWER A QUESTION OR DO A STUDY]]
+  * [[.bibliography:list:page-rank|What PageRank variations and computation methods are there?]]
 
 ===== Methodology =====
 
-LITERATURE REVIEW METHODOLOGY DESCRIPTION
+DESCRIPTION OF YOUR LITERATURE REVIEW METHODOLOGY
 
 ===== General =====
  
-  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:Writing for computer science]]
 
-===== TOPIC 1 =====
+===== Information Retrieval =====
 
-  * [[phd:bibliography:PAPER TITLE HERE]]
-  * [[phd:bibliography:PAPER TITLE HERE]]
-  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:A statistical approach to mechanized encoding and searching of literary information]]
+  * [[phd:bibliography:A statistical interpretation of term specificity and its application in retrieval]]
 
-==== TOPIC 2 ====
+==== Graph-Based Models ====
 
-  * [[phd:bibliography:PAPER TITLE HERE]]
-  * [[phd:bibliography:PAPER TITLE HERE]]
-  * [[phd:bibliography:PAPER TITLE HERE]]
-  * [[phd:bibliography:PAPER TITLE HERE]]
+  * [[phd:bibliography:Graph-based term weighting for information retrieval]]
+
+==== Entity-Oriented Search ====
+
+  * [[phd:bibliography:Entity-Oriented Search]]
+  * [[phd:bibliography:Semantic search on text and knowledge bases]]

@@ -1,0 +1,19 @@
+====== A statistical approach to mechanized encoding and searching of literary information ======
+
+<WRAP 100%>
+^ Authors | [[.author:H. P. Luhn]] |
+^ Journal | [[.journal:IBM Journal of Research and Development]] |
+^ Year | [[.year:1957]] |
+
+^ To Do |
+| <todo>Learn about the origins of TF.</todo> |
+| <todo>Identify unexplored ideas that could be useful.</todo> |
+</WRAP>
+
+<WRAP round box>
+SUMMARY PARAGRAPH. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna fringilla urna porttitor rhoncus dolor purus. Cum sociis natoque penatibus et magnis dis parturient. Eu tincidunt tortor aliquam nulla. Arcu ac tortor dignissim convallis. Pellentesque massa placerat duis ultricies lacus sed. Amet massa vitae tortor condimentum lacinia. Urna neque viverra justo nec ultrices. Et malesuada fames ac turpis. At quis risus sed vulputate odio.
+</WRAP>
+
+===== Notes =====
+
+Hans Peter Luhn's work combined with [[.author:K. S. Jones|Karen Spärck Jones']] produced a fundamental concept of information retrieval: [[infopages:TF-IDF]].

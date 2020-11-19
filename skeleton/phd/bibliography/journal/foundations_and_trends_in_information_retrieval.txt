@@ -1,0 +1,3 @@
+====== Foundations and Trends in Information Retrieval ======
+
+{{backlinks>.#!phd:bibliography:journal}}

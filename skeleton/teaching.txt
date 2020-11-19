@@ -2,10 +2,9 @@
 
 ===== Courses =====
 
-==== Course 1 ====
-
-  * [[teaching:course1|COURSE ACRONYM: COURSE NAME]]
+  * [[teaching:db|DB: Databases]]
+  * [[teaching:ir|IR: Information Retrieval]]
 
 ===== Supervisions =====
 
-  * [[teaching:THESIS TITLE 1]]
+  * [[teaching:john-doe-2020|John Doe, Exploring Graph-Based Models]]

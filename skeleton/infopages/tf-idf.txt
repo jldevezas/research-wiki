@@ -1,0 +1,13 @@
+====== TF-IDF ======
+
+In [[https://lucene.apache.org/|Apache Lucene]], TF and IDF are implemented as:
+
+$tf(t, d) = \sqrt{f_{t,d}}$
+
+$idf(t, D) = 1 + \log\frac{|D|}{n_t + 1}$
+
+Where $f_{t,d}$ is the number of occurrences of term $t$ in document $d \in D$, and $D$ is a collection of documents, with $n_t$ being the number of documents containing the term $t$ at least once.
+
+Thus, TF-IDF is the product of:
+
+$\operatorname{\mathit{TF-IDF(t, d \in D)}} = tf(t, d) \times idf(t, D)$

@@ -1,0 +1,23 @@
+====== Sysadmin ======
+
+===== Configurations =====
+
+  * [[infopages:sysadmin:wpa_supplicant|WPA Supplicant]]
+  * [[https://wiki.postgresql.org/wiki/Using_pg_upgrade_on_Ubuntu/Debian|Using pg upgrade on Ubuntu/Debian]]
+
+===== Shell Scripting =====
+
+  * [[http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash|What is the difference between double and single square brackets in bash?]]
+  * [[http://stackoverflow.com/questions/673055/correct-bash-and-shell-script-variable-capitalization|Correct Bash and shell script variable capitalization]]
+
+===== Services =====
+
+  * [[http://supervisord.org/|Supervisor: A Process Control System]]
+  * [[infopages:sysadmin:basic-supervisor-configuration|Basic Supervisor Configuration]]
+  * [[infopages:sysadmin:basic-systemd-configuration|Basic Systemd Configuration]]
+
+===== Tips =====
+
+  * [[infopages:sysadmin:git|Useful Git Workflows]]
+  * [[infopages:sysadmin:vim|Useful Vim Workflows]]
+  * [[infopages:sysadmin:rsync|Useful rsync Workflows]]

@@ -1,7 +1,8 @@
 ====== Reviews ======
 
-  * [[reviews:CONF 20XX]]
+  * [[reviews:ECIR 2020]]
+  * [[reviews:CNA 2019]]
 
 ===== Resources =====
 
-  * LINKS TO RELEVANT REVIEWING CONTENT
+  * [[https://plos.org/resource/how-to-write-a-peer-review/|PLOS - How to Write a Peer Review]]

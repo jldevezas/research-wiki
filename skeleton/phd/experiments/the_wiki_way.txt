@@ -1,21 +1,17 @@
-====== Model Name ======
+====== The Wiki Way ======
 
 ^ ID | Experiment 1 |
 ^ Start Date | 2017-11-28 11:19 |
 ^ End Date | Ongoing |
-^ Why do it? | |
-^ Main strengths | |
-^ Main weaknesses | |
+^ Why do it? | We need structure and support in research. |
+^ Main strengths | Out-of-the-box wiki configuration to support research. |
+^ Main weaknesses | Might not fit everybody's needs out-of-the-box. |
 ^ Test Collection | [[phd:collections:Wikipedia]] |
 
 ^ To Do ^
-| <todo></todo> |
-
-[{{:phd:experiments:model-name:diagram.png|Diagram here.}}]
+| <todo>Improve skeleton.</todo> |
 
 <WRAP clear/>
-
-Overall description of the model.
 
 ===== Challenges =====
 
@@ -38,17 +34,11 @@ Overall description of the model.
 ^  Representation Model  ^^
 | Type X Edge | Description of how to create the edge and why. |
 
-===== Traces =====
-
-|< 100% - - - >|
-^ Version ^ Query ^ Army ANT Version ^
-| Function X | [[.experiment-page:traces:function-x-query|[ query ]]] | 0.3 |
-
 ===== Evaluation =====
 
-^  Version  ^ GMAP ^ MAP  ^  NDCG@10  ^ P@10  ^ Index Time  ^^  Search Time  ^^
-^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^  Avg./Doc  ^  Total  ^  Avg./Query  ^  Total  ^
-|  |  |  |  |  |  |  |  |  |
+^  Version      ^ GMAP  ^ MAP   ^  NDCG@10  ^ P@10  ^ Index Time           |^  Search Time           ||
+| :::           | :::   | :::   | :::       | :::   ^  Avg./Doc   ^  Total  ^  Avg./Query   ^  Total  ^
+| Basic Search  | 0.5   | 0.34  | 0.67      | 0.56  | 1s200ms     | 3m27s   | 100ms         | 2s      |
 
 ===== Research Log =====
 

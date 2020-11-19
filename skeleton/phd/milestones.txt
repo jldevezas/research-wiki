@@ -4,19 +4,20 @@
 In this revision, we present the first iteration of the milestones (we all know things change).
 </WRAP>
 
-===== M1: MILESTONE NAME =====
+===== M1: Capture data from the brain in a non-invasive manner =====
 
-==== A: ACTIVITY NAME ====
+==== A: Obtain test data ====
 
-**[[.milestones:m1at1|T1. TASK DESCRIPTION (DONE)]]**
-
-[[.milestones:m1at2|T2. TASK DESCRIPTION (NOT DONE)]]
+**[[.milestones:m1at1|T1. Calibrate the machine]]**\\
+[[.milestones:m1at2|T2. Capture brain waves and information needs for a month for each subject.]]
 
 ====== Gantt ======
 
 GANT IMAGE
 
 ====== Work Plan ======
+
+DESCRIPTION OF THE ORIGINAL WORK PLAN
 
 ===== Revisions ======
 

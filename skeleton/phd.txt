@@ -1,8 +1,10 @@
 ====== Thesis ======
 
-^ Title      | TITLE                                                                                                                                                                                                                                                                                                                                           |
-^ Statement  | THESIS STATEMENT  |
+^ Title      | Brain Search                                                                                                                                                                                                                                 |
+^ Statement  | Through everyday thought process, it is possible to train a learning-to-rank model that can transform brain waves into queries without specific formulation by the user, while predicting solving information needs in an anticipatory way.  |
 
-===== YOUR OWN SECTIONS =====
+===== Planning =====
 
-FREE OVERVIEW CONTENT
+  * Make a list.
+  * Add dates.
+  * Be asked to provide a Gantt instead.

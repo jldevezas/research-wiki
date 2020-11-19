@@ -1,0 +1,9 @@
+====== Useful Vim Workflows ======
+
+**Source:** [[http://vim.wikia.com/wiki/Search_patterns|Search patterns]]
+
+Finding a whole word in the document with ''/'':
+
+<code vim>
+\<word\>
+</code>

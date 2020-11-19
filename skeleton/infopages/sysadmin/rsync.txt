@@ -1,0 +1,23 @@
+====== Useful rsync Workflows ======
+
+===== Keeping a backup of a remote directory with progress =====
+
+<code bash>
+rsync -Paz REMOTE/ LOCAL
+</code>
+
+Note the slash at the end of ''REMOTE''. If present, it will copy the REMOTE directory's contents. If not, it will copy the directory instead. Since ''LOCAL'' already represents the analogous REMOTE directory, we use slash.
+
+^ -P  | Progress bar and resume partials (if left from a previously interrupted backup).                                      |
+^ -a  | Archive. Recursive copy which keeps symlinks, permissions, modification times, groups, owners, devices and specials.  |
+^ -z  | Compress. Good for remote transfer.                                                                                   |
+
+===== Keeping a backup of a remote directory with progress, without touching user and group =====
+
+<code bash>
+rsync -PrlptDz REMOTE/ LOCAL
+</code>
+
+Note the slash at the end of ''REMOTE''. If present, it will copy the REMOTE directory's contents. If not, it will copy the directory instead. Since ''LOCAL'' already represents the analogous REMOTE directory, we use slash.
+
+Here we use ''-rlptD'' instead of ''-a'', which was equivalent to ''-rlptgoD'' (removing ''-g'' does not touch group and removing ''-o'' does not touch user (or owner).
