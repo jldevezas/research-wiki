@@ -2,11 +2,11 @@
 
 ===== Full Papers =====
 
-  * [[ecir-2020:paper-1|Retrieval of Entities through Graphs]]
-  * [[ecir-2020:paper-27|Information Needs from the View of the User]]
+  * [[.ecir-2020:paper-1|Retrieval of Entities through Graphs]]
+  * [[.ecir-2020:paper-27|Information Needs from the View of the User]]
 
 ===== Short Papers =====
 
-   * [[ecir-2020:paper-372|Knowing Fear in Search Queries]]
-   * [[ecir-2020:paper-390|Bringing Light to Dark Web Search]]
+   * [[.ecir-2020:paper-372|Knowing Fear in Search Queries]]
+   * [[.ecir-2020:paper-390|Bringing Light to Dark Web Search]]
 
