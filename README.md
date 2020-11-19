@@ -29,3 +29,31 @@ To stop:
 cd research-wiki/
 docker-compose stop
 ```
+
+# Analysis: Jupyter notebook
+
+We also provide a Jupyter notebook to help you analyze your activity based on your wiki, over the three dimensions we propose here: literature, collections and experiments.
+
+## Install
+
+First, let us install R and Jupyter:
+
+```shell
+sudo apt-get install r-base
+pip install jupyter
+```
+
+Then, you must install the `IRkernel` package in R:
+
+```r
+install.packages("IRkernel")
+```
+
+Finally, just launch Jupyter notebook in the notebook directory:
+
+```shell
+cd research-wiki/notebook/
+jupyter notebook
+```
+
+And follow the instructions in the notebook to run your analysis. All plots will be saved to the `output/` directory.
