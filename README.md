@@ -10,7 +10,7 @@ cd research-wiki/
 docker-compose up --build
 ```
 
-Visit http://127.0.0.1:8080/ and login with username `admin` and password `admin` (don't forget to change it in `Admin->User Manager`). You can then start editing taking advantage of the multiple templates for the pre-established namespaces within the proposed structure. We will publish an article with more details soon.
+Visit http://127.0.0.1:8080/ and login with username `admin` and password `admin` (don't forget to change it in `Admin => User Manager`). You can then start editing taking advantage of the multiple templates for the pre-established namespaces within the proposed structure. We will publish an article with more details soon.
 
 You can then stop the server by pressing `ctrl+c`.
 
