@@ -1,2 +1,4 @@
-/.vscode
-/dokuwiki
+/.vscode/
+/dokuwiki/
+output/
+.ipynb_checkpoints/
