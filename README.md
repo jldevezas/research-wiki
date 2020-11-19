@@ -1,6 +1,6 @@
-# research-wiki
+# Research wiki
 
-A docker-based configuration of a DokuWiki instance for managing research the wiki way.
+A docker-based configuration of a [DokuWiki](https://www.dokuwiki.org/) instance for managing research the wiki way.
 
 ## Install
 
