@@ -33,7 +33,7 @@
   * [[your-program:COURSE 1]]
   * [[refnotes:your-program|References]]
 
-===== YOUR PROJECTS =====
+===== Projects =====
 
   * [[project1|PROJECT 1]]
     * [[project1:issues|Issues]]

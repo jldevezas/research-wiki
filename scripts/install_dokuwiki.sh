@@ -35,8 +35,10 @@ echo "Performing a clean install of the latest DokuWiki"
 
 wget https://download.dokuwiki.org/src/dokuwiki/dokuwiki-stable.tgz
 tar xvzf dokuwiki-stable.tgz
-rsync --ignore-existing -a skeleton/* dokuwiki*/data/pages
-mv dokuwiki*/* /var/www/html
+wiki_dir=$(tar tzf dokuwiki-stable.tgz | grep -E '^[^/]+/?$')
+rsync --ignore-existing -a skeleton/* ${wiki_dir}/data/pages
+cp conf/*.php ${wiki_dir}/conf
+mv ${wiki_dir}/* /var/www/html
 
 echo "Installing DokuWiki extensions required for the research wiki"
 
