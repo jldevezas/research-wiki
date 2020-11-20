@@ -15,10 +15,10 @@ https://github.com/gturri/nspages/zipball/master
 https://github.com/cosmocode/nslist/zipball/master
 https://github.com/michitux/dokuwiki-plugin-move/zipball/master
 https://github.com/liffiton/dokuwiki-plugin-mathjax/archive/master.zip
-https://github.com/flammy/imagebox/tarball/master
+https://github.com/flammy/imagebox/zipball/master
 https://github.com/dokufreaks/plugin-folded/archive/master.zip
 https://github.com/cosmocode/edittable/archive/master.zip
-https://github.com/splitbrain/dokuwiki-plugin-dw2pdf/tarball/master
+https://github.com/splitbrain/dokuwiki-plugin-dw2pdf/zipball/master
 https://github.com/dokufreaks/plugin-blockquote/archive/master.zip
 https://github.com/tatewake/dokuwiki-plugin-backup/archive/master.zip
 https://github.com/mprins/dokuwiki-plugin-backlinks/archive/master.zip
