@@ -12,7 +12,6 @@ https://github.com/michitux/dokuwiki-plugin-saveandedit/zipball/master
 https://github.com/dwp-forge/refnotes/archive/v.2020-08-10.zip
 https://github.com/ssahara/dw-plugin-NumberedHeadings/archive/master.zip
 https://github.com/gturri/nspages/zipball/master
-https://github.com/cosmocode/nslist/zipball/master
 https://github.com/michitux/dokuwiki-plugin-move/zipball/master
 https://github.com/liffiton/dokuwiki-plugin-mathjax/archive/master.zip
 https://github.com/flammy/imagebox/zipball/master
