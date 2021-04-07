@@ -84,7 +84,7 @@ If you are using this package to manage your research, please cite the following
 
 ```bibtex
 @misc{Devezas2021a,
-  author        = {José Devezas and Sérgio Nunes},
+  author        = {Devezas, Jos\'{e} and Nunes, S\'{e}rgio},
   title         = {Managing Research the Wiki Way: A Systematic Approach to Documenting Research},
   year          = {2021},
   archiveprefix = {arXiv},
