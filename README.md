@@ -84,11 +84,11 @@ If you are using this package to manage your research, please cite the following
 
 ```bibtex
 @misc{Devezas2021a,
-  title={Managing Research the Wiki Way: A Systematic Approach to Documenting Research},
-  author={José Devezas and Sérgio Nunes},
-  year={2021},
-  eprint={2104.01849},
-  archivePrefix={arXiv},
-  primaryClass={cs.DL}
+  author        = {José Devezas and Sérgio Nunes},
+  title         = {Managing Research the Wiki Way: A Systematic Approach to Documenting Research},
+  year          = {2021},
+  archiveprefix = {arXiv},
+  eprint        = {2104.01849},
+  primaryclass  = {cs.DL},
 }
 ```
