@@ -57,3 +57,38 @@ jupyter notebook
 ```
 
 And follow the instructions in the notebook to run your analysis. All plots will be saved to the `output/` directory.
+
+# Citation
+
+If you are using this package to manage your research, please cite the following papers:
+
+```bibtex
+@article{Devezas2021,
+  author     = {Devezas, Jos\'{e} and Nunes, S\'{e}rgio},
+  title      = {Managing Research the Wiki Way},
+  year       = {2021},
+  issue_date = {Spring 2021},
+  publisher  = {Association for Computing Machinery},
+  address    = {New York, NY, USA},
+  volume     = {27},
+  number     = {3},
+  issn       = {1528-4972},
+  url        = {https://doi.org/10.1145/3453117},
+  doi        = {10.1145/3453117},
+  journal    = {XRDS: Crossroads, The ACM Magazine for Students},
+  month      = mar,
+  pages      = {10–11},
+  numpages   = {2}
+}
+```
+
+```bibtex
+@misc{Devezas2021a,
+  title={Managing Research the Wiki Way: A Systematic Approach to Documenting Research},
+  author={José Devezas and Sérgio Nunes},
+  year={2021},
+  eprint={2104.01849},
+  archivePrefix={arXiv},
+  primaryClass={cs.DL}
+}
+```
