@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:stable-slim
 
 RUN apt-get update && apt-get -y dist-upgrade
 RUN apt-get -y install wget rsync unzip
